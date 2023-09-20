@@ -1,1 +1,2 @@
-# Market-Basket-Analysis-
+# Market Basket Analysis
+In Market Basket Analysis project leverages historical sales data to uncover product associations, enhance inventory management, optimize pricing strategies, and drive targeted marketing efforts. By mining customer purchasing patterns, we aim to boost cross-selling opportunities, reduce carrying costs, and improve the overall shopping experience. The project's core objectives include building a recommendation engine, customer segmentation, and actionable data visualization to empower retail businesses with insights for strategic decision-making and increased profitability.
